@@ -4,7 +4,7 @@ This repo is to build a Docker Teradata Client.
 
 Its not quite as simple as that, you will also need to:-
 
-* Download the [Teradata RPMs](http://downloads.teradata.com/download/connectivity/odbc-driver/linux)
+* Download http://downloads.teradata.com/download/connectivity/odbc-driver/linux
 
 * Create another Docker image from this one with a Dockerfile like this
 

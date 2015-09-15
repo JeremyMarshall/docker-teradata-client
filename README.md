@@ -11,7 +11,7 @@ Its not quite as simple as that, you will also need to:-
 * Create another Docker image from this one with a Dockerfile like this
 
 ```
-FROM jeremymarshall/teradata-client
+FROM jeremymarshall/docker-teradata-client
 ```
 
 * Copy the downloaded tar.gz file above directly into the folder with the Dockerfile
